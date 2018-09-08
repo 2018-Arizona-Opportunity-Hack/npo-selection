@@ -4,3 +4,5 @@ Check out our Jupyter Notebook in the code directory for more info.  If you don'
 
 
 Please visit opportunity-hack.org for more info.
+
+<img src="code/2018 AZ Opportunity Hack NPO Problems.png" width="500">
